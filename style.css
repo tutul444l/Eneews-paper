@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(222, 220, 220);
+}
+#primary-logo{
+    height: 70px;
+    width: 70px;
+}
+.version-title{
+    border-radius: 0 10px 10px 0px;
+    background-color: #B91920;
+    text-decoration: none;
+
+}
+.version-title:hover{
+    text-decoration: underline;
+    color: goldenrod !important;
+}
+
+.adadvertisement{
+    min-height: 90px;
+    min-width: 726px;
+    border: 2px solid gray;
+}
+.custom-bg-color{
+    background-color: white;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(214, 36, 36);
+    text-align: center;
+    padding-top: 8px;
+}
+.fa-youtube-square{
+    color: red;
+}
+#date{
+    width: 50%;
+    height: 40px;
+    margin-top:10px ;
+}
