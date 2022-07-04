@@ -25,6 +25,9 @@ body{
 .custom-bg-color{
     background-color: white;
 }
+.bg-blue{
+    background-color: #363D4D;
+}
 
 .icon{
     width: 30px;
@@ -35,10 +38,13 @@ body{
     padding-top: 8px;
 }
 .fa-youtube-square{
-    color: red;
+    color: #B91920;
 }
 #date{
     width: 50%;
-    height: 40px;
-    margin-top:10px ;
+    height: 30px;
+}
+
+.paginaction-item:hover{
+    background-color: #B91920;
 }
